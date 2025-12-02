@@ -56,19 +56,17 @@ A smart personal expense-tracking system to manage daily spending.
 🔗 *Upload this repo to GitHub to show here*
 
 ---
+📄 **Job portal web application
 
-### 🤖 **Plant Disease Detection (If you are building)**  
-ML model to detect diseases from plant leaf images.  
-**Tech:** CNN, TensorFlow, Image Processing  
-🔗 *Add repository when ready*
+A full-stack web application to help job seekers find jobs and employers post openings.
+Tech: HTML, CSS, JavaScript, Bootstrap, Python (Flask/Django)
+🔗 GitHub Repository
+ (replace with your actual repo link)
+✅ User Login & Registration · Job Posting & Search · Responsive Design · Role-Based Access
 
----
 
 
-## 📊 GitHub Stats  
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehamiriyala2&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehamiriyala2&layout=compact&theme=tokyonight)
 
 ## 📎 Links
 
