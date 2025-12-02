@@ -39,7 +39,7 @@
 
 ### 🗄️ Databases  
 - MySQL  
-- MongoDB (basic)
+  
 
 ### 🧰 Tools & Platforms  
 - Git & GitHub  
@@ -64,17 +64,17 @@ ML model to detect diseases from plant leaf images.
 
 ---
 
-### 📈 **Student Performance Analysis (Mini Project)**  
-Analyzed student performance using Python ML models.  
-**Tech:** Python, Pandas, Scikit-Learn, Visualization  
-🔗 *Add repository*
-
----
 
 ## 📊 GitHub Stats  
 ![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehamiriyala2&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehamiriyala2&layout=compact&theme=tokyonight)
+
+## 📎 Links
+
+- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/neha-miriyala-8875622a8/)
+- 📄 **Resume:** [Download Resume](https://drive.google.com/file/d/1RxgQF-pal4GRZe09wmJjOppCiHbwCuae/view?usp=sharing)
+
 
 ---
 
