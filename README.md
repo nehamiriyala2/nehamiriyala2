@@ -72,7 +72,7 @@ ML model to detect diseases from plant leaf images.
 
 ## 📎 Links
 
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/neha-miriyala-8875622a8/)
+- 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/neha-miriyala-8875622a8/)
 - 📄 **Resume:** [Download Resume](https://drive.google.com/file/d/1RxgQF-pal4GRZe09wmJjOppCiHbwCuae/view?usp=sharing)
 
 
