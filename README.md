@@ -83,28 +83,30 @@
 
 ## 📂 Projects
 
-### 1️⃣    Budget Tracker & Expense Manager
-💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL </br>
-🏗️ **Role:** Team Lead + Fronted Developer 
+### 1️⃣  Budget Tracker & Expense Manager
+💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
 💰 Tracks daily income & expenses with clean UI  
 📊 Features:
 - Category-wise analytics  
 - Monthly financial summaries  
 - Interactive visual reports  
-- Data export (CSV / Excel)  
-  
+- Data export (CSV / Excel)
 
----
 
-### 2️⃣  Job Portal Web Application
+### 2️⃣ Job Portal Web Application
 💻 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-🏗️ **Role:** Fronted developer
+
 🌟 Built a fully functional job portal connecting employers and candidates  
 🔍 Implemented:
 - Advanced job search filters  
 - Job application tracking system  
 - Employer & candidate dashboards  
-- Admin panel with CRUD functionality
+- Admin panel with CRUD functionality  
+
+---
+  
+
+
 
 
 ## 💡 Open to
